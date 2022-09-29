@@ -7,6 +7,12 @@
 </div>
 
 ## Live
+Frontal face definition
+```python
+cascPath = "haarcascade_frontalface_default.xml"
+```
+
+Logic
 ```python
 while(True):
 	# Capture frame-by-frame
