@@ -7,7 +7,7 @@
 </div>
 
 ## Live
-'''python
+```python
     while(True):
 	# Capture frame-by-frame
 	ret, frame = cap.read()
@@ -35,6 +35,6 @@
 	if cv2.waitKey(1) & 0xFF == ord('q'):
 		break
 
-'''
+```
 
 ## Image Given
