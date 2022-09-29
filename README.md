@@ -7,8 +7,8 @@
 </div>
 
 ## Live
-'''
-while(True):
+'''python
+    while(True):
 	# Capture frame-by-frame
 	ret, frame = cap.read()
 
